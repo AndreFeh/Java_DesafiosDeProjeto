@@ -1,8 +1,8 @@
-package Basico;
+package Progamas;
 
 import java.util.Scanner;
 
-public class PaginasLidasDia {
+public class PaginasLidasPorDia {
     public static void main(String[] args) {
         Scanner scan = new Scanner(System.in);
         int livro = scan.nextInt();

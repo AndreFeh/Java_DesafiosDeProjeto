@@ -1,4 +1,4 @@
-package Basico;
+package Progamas;
 
 import java.util.Scanner;
 
